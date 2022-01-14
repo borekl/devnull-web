@@ -5,7 +5,10 @@ central server code. With the tournament
 [retirement](https://twitter.com/devnull_nethack/status/908441635746279424)
 by Krystal, this never came to fruition. Instead, this code was coopted
 for clan management of the replacement tournament -- /dev/null/nethack
-Tribute. The tag 'pre-tribute' marks the last commit before this event.
+Tribute and then the TNNT tournament. The tag 'pre-tribute' marks the last
+commit before this event.
+
+**Note: TNNT got a new scoreboard, so this code is no longer maintained.**
 
 ## ARCHITECTURE
 
